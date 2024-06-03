@@ -12,3 +12,9 @@ The project is about using the basic HTML skills that I have learnt to create a 
 I will be using lists, links and the general outlook of a basic HTML setup.
 
 I have created 3 recipes and used the "<a>" tag to link all the 3 webpages.
+
+It has been a bit of a challenge, especially with the coordination of where to place the directories, commiting and pushing .
+
+I am learning slowly by slowly, it is challenging but I enjoy it alot.
+
+With a bit of practice I will get there.
